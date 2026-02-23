@@ -106,7 +106,7 @@ Hidden fields like:
 
 may be internally bound.
 
-Students should compare GET and PATCH responses to identify hidden object properties.
+Testers should compare GET and PATCH responses to identify hidden object properties.
 
 ---
 
@@ -302,7 +302,7 @@ Example endpoint:
 /forgot-password?reset_token=123456789
 ```
 
-Students should analyze:
+Testers should analyze:
 
 - Token handling
 - Parameter mapping
@@ -353,7 +353,7 @@ This demonstrates risks of:
 
 # 7️⃣ Key Academic Teaching Points
 
-Students must understand:
+Testers must understand:
 
 - How internal API requests are constructed
 - How URL encoding affects backend logic
@@ -406,7 +406,7 @@ Students must understand:
 
 # 🎓 Learning Outcomes
 
-After studying this material, students should be able to:
+After studying this material, Testers should be able to:
 
 - Analyze API attack surfaces
 - Identify backend parsing weaknesses
