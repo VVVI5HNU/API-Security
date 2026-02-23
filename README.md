@@ -10,9 +10,6 @@ It covers:
 - Server-side parameter pollution (SSPP)
 - JSON injection risks
 - Backend parsing behavior
-
-⚠️ For academic instruction and authorized testing environments only.
-
 ---
 
 # 1️⃣ API Endpoint Discovery
